@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=00bfbf&text=Thambaru%20Wijesekara&textBg=false&section=header&reversal=false&fontColor=fff&fontAlign=50&animation=fadeIn&fontSize=30&fontAlignY=30&desc=Full%20Stack%20Engineer&descSize=12&descAlignY=44"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=00bfbf&text=Thambaru%20Wijesekara&textBg=false&section=header&reversal=false&fontColor=fff&fontAlign=50&animation=fadeIn&fontSize=30&fontAlignY=30&desc=Senior%20Software%20Engineer&descSize=12&descAlignY=44"/>
 
 <div align="center">  
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=thambaru&theme=react-dark&hide_border=true&area=true&radius=7" />
